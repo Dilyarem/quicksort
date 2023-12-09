@@ -1,18 +1,34 @@
 # quicksort
 /Users/dilyarakhannanova/quicksort/cmake-build-debug/quicksort
+
 SEQUENTIAL
+
 14204192916
+
 14301842584
+
 14237792208
+
 14263186834
+
 14516533750
+
 AVERAGE 14304709658
+
 PARALLEL
+
 3620164792
+
 3938665917
+
 3604889375
+
 3745664333
+
 4649450166
+
 AVERAGE 3911766916
+
 BOOST 3.65684
+
 Process finished with exit code 0
